@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <TextView
+        android:id="@+id/checkout_button"
+        android:textSize="@dimen/text_size_normal"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:background="@color/app_color"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/checkout"
+        android:layout_marginBottom="5dp"
+        android:visibility="gone"/>
+
+    <ListView
+        android:id="@+id/tummy_fuel_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:dividerHeight="2dp"
+        android:divider="@color/app_color"
+        android:paddingTop="5dp"
+        android:layout_below="@id/checkout_button"
+        android:footerDividersEnabled="true"/>
+
+    <View
+        android:id="@+id/footer_divider"
+        android:background="@color/app_color"
+        android:layout_width="match_parent"
+        android:layout_height="2dp" />
+    <TextView
+        android:id="@+id/empty_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empty_tummy_list"
+        android:layout_centerInParent="true"
+        android:padding="6dp"
+        android:textSize="20dp"
+        android:textColor="@color/app_color"
+        android:visibility="gone"/>
+
+</RelativeLayout>

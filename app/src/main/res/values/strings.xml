@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Clever Belly</string>
+    <string name="action_settings">Settings</string>
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>My Tummy Fuel</item>
+        <item>My Orders</item>
+        <item>Track My Diet</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_my_tummy_fuel</item>
+        <item>@drawable/ic_my_orders</item>
+        <item>@drawable/ic_track_my_diet</item>
+    </array>
+
+    <array name="sort_options">
+        <item>A-Z</item>
+        <item>WT-Rating</item>
+    </array>
+
+    <string name="home_grid_list_title">Look For</string>
+    <string name="rate_out_of">/ 5</string>
+    <string name="remove">  Remove  </string>
+    <string name="checkout">  Checkout  </string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="detail_section_header">Nutrition Content per 100gm</string>
+    <string name="empty_tummy_list">Ooops! You have nothing to fill your Tummy.. !</string>
+    <string name="empty_order_list">Ooops! Your cart is empty.. !</string>
+    <string name="empty_diet_list">Please fill your tummy to track your diet!</string>
+    <string name="weight">Weight : </string>
+    <string name="height">Height : </string>
+    <string name="calorie_count_text">My Calorie Count (per 100gm) : </string>
+
+</resources>

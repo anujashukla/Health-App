@@ -1,0 +1,36 @@
+1,Beverages,1,Tea,3,1,Tetly green Tea,beverage_item1,90%,3.33,0.72,Good,92,20,5,0,1,0,0,0
+1,Beverages,2,Coffee,4,2,Bru Coffee,beverage_item2,92.34%,4.5,0.2,Poor,100,35,3,0,8,0,0,0
+1,Beverages,2,Tea,5,3,Lipton Green Tea,beverage_item3,99.50%,2.12,0.4,Excellent,78,30,7,5,0,0,0,0	
+1,Beverages,3,Energy Drink Mix,2.5,4,Complan Power,beverage_item4,96.30%,4.67,0.98,Average,84,42,8,7,4,0,0,0
+1,Beverages,2,Coffee,3.5,5,Nestcafe Cappuccino,beverage_item5,87%,3.98,0.67,Poor,93,24,1,0,2,0,0,0
+1,Beverages,3,Energy Drink Mix,4.5,6,Horlicks,beverage_item6,100%,4,0.85,Excellent,89,19,6,12,1,0,0,0
+1,Beverages,4,Packaged Juice,2,7,Tropicana 100% Grapefruit,beverage_item7,85.57%,5,0.55,Average,95,38,7,8,0,0,0,0
+1,Beverages,5,Packaged Juice,3,8,Real Active 100% Orange,beverage_item8,72.93%,4.26,0.69,Good,97,22,5,17,3,0,0,0
+2,Breakfast Cereals,1,Oats,3,9,Kelloggs Oat-Bites,bfkcereals_item1,75%,4.5,0.2,Poor,92,20,5,0,1,0,0,0
+2,Breakfast Cereals,2,Muesli,2,10,Kelloggs Extra Muesli Crunchy Fruit & Nut,bfkcereals_item2,86%,2.12,0.4,Excellent,100,35,3,0,8,0,0,0
+2,Breakfast Cereals,3,Bran Flex,4.5,11,Murginns Instant Wheat Porridge,bfkcereals_item3,79%,4.67,0.98,Average,78,30,7,5,0,0,0,0
+2,Breakfast Cereals,4,Corn Flex,1,12,24 Mantra Organic Cornflakes With Flax & Amaranath,bfkcereals_item4,82%,3.98,0.67,Poor,84,42,8,7,4,0,0,0
+6,Condiments Sauces & Spices,1,Sauces,2.5,13,Maggi Rich Tomato Ketchup,cps_item1,83.50%,4,0.85,Excellent,93,24,1,0,2,0,0,0
+6,Condiments Sauces & Spices,2,Pickels & Chutneys,3.5,14,ADF Soul Mango Pickle,cps_item2,73.60%,5,0.55,Average,89,19,6,12,0,0,0,0
+6,Condiments Sauces & Spices,3,Jams,3,15,Kissan Mixed Fruit Jam,cps_item3,92.40%,4.26,0.69,Good,95,38,7,8,0,0,0,0
+6,Condiments Sauces & Spices,4,Spreads & Marmalades,4.5,16,Nutella Ferrero Hazelnut-Cocoa Spread,cps_item4,65.70%,4.5,0.2,Poor,97,22,5,17,3,0,0,0
+5,Snacks Biscuits & Chips,1,Biscuits,4,17,UNIBIC Multigrain Breakfast Cookies,snkbct_item1,63.80%,2.12,0.4,Excellent,92,20,5,0,1,0,0,0
+5,Snacks Biscuits & Chips,1,Biscuits,2,18,Horlicks Nutribic Zero Added Sugar Biscuits,snkbct_item2,95%,4.67,0.98,Average,100,35,3,0,8,0,0,0
+5,Snacks Biscuits & Chips,2,Pasta & Macaroni,2.5,19,MTR Shell Macaroni,snkbct_item3,86%,3.98,0.67,Poor,78,30,7,5,0,0,0,0
+5,Snacks Biscuits & Chips,2,Pasta & Macaroni,3,20,MTR Roasted Vermicilli,snkbct_item4,87%,4.1,0.85,Excellent,84,42,8,7,4,0,0,0
+3,Ready to eat,1,Veg,4,21,MTR Mixed Vegetable Curry,rte_item1,78.40%,4.2,0.89,Excellent,93,24,1,0,2,0,0,0
+3,Ready to eat,1,Veg,4.5,22,MTR Paneer Makhani,rte_item2,82%,4.4,0.85,Excellent,89,19,6,12,0,0,0,0
+3,Ready to eat,2,Non-Veg,4,23,Zorabian Chicken Cheese N Onion Sausages,rte_item3,76%,4,0.85,Excellent,88,19,6,12,0,0,0,0
+3,Ready to eat,2,Non-Veg,4.5,24,Zorabian Chicken Seekh Kebab,rte_item4,82%,4.2,0.87,Excellent,89,19,6,12,0,0,0,0
+7,Cooking,1,Rice,4,25,Kohinoors Exclusive Brown Healthy Basmati Rice,cook_item1,100%,4.1,0.86,Excellent,87,42,8,9,4,0,0,0
+7,Cooking,1,Rice,4.5,26,Daawat Traditional Basmati Rice Original Rich Aroma,cook_item2,100%,4.6,0.82,Excellent,84,41,6,7,4,0,0,0
+7,Cooking,1,Rice,4,27,Daawat Super Basmati Rice Fluffy Long Grains,cook_item3,100%,4,0.85,Excellent,86,42,7,8,6,0,0,0
+7,Cooking,2,Dhokla,4.5,28,MTR Khaman Dhokla Mix,cook_item4,83.01%,4,0.81,Excellent,84,46,8,7,4,0,0,0
+8,Dairy,1,Milk,2,29,Amul Gold Homogenised Standard Milk,dairy_item1,65.73%,2.82,0.67,Poor,78,30,6,5,0,0,0,0
+8,Dairy,1,Milk,2,30,Amul Taaza,dairy_item2,71.97%,3.14,1,Poor,77,33,7,5,0,0,0,0
+8,Dairy,1,Milk,3.5,31,Britannia Slimz Milk,dairy_item3,99.12%,4.2,0.85,Excellent,89,19,6,12,0,0,0,0
+8,Dairy,1,Milk,4,32,Amul Lite Milk Zero Cholestrol,dairy_item4,98.43%,4.1,0.85,Excellent,84,42,8,7,4,0,0,0
+9,Frozen Canned,1,Tin,4.5,33,Sunsweet Apricots,frozen_item1,40%,3.1,0.71,Good,62,28,3,3,0,0,0,0
+9,Frozen Canned,1,Tin,2.1,34,Del Monte Corn Whole Kernel,frozen_item2,62.86%,2.6,0.56,Poor,51,21,1,2,0,0,0,0
+4,Sweet Tooth,1,Icecream,2.2,35,Kwality Walls Creamy Delights Vanilla,sweettooth_item1,42%,1.84,0.61,Good,52,19,3,1,0,0,0,0
+4,Sweet Tooth,1,Icecream,1.7,36,Baskin Robbins Gold Medal Icecream,sweettooth_item2,32.4,1.71,0.52,Good,51,19,2,3,0,0,0,0

@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cook_item3.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\cook_item3.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_rating_star.png",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\icon_rating_star.png"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rte_item4.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\rte_item4.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_favourite_unselected.png",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\icon_favourite_unselected.png"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dairy_item1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\dairy_item1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cook_item4.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\cook_item4.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bkg_gradient_top_to_bottom.xml",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\bkg_gradient_top_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dairy_item3.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\dairy_item3.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_grid_sweet_tooth.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\home_grid_sweet_tooth.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_my_tummy_fuel.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\ic_my_tummy_fuel.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beverage_item1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\beverage_item1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rte_item2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\rte_item2.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_grid_condiments.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\home_grid_condiments.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bfkcereals_item4.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\bfkcereals_item4.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snkbct_item3.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\snkbct_item3.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_grid_cooking.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\home_grid_cooking.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_track_my_diet.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\ic_track_my_diet.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beverage_item3.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\beverage_item3.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cook_item1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\cook_item1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dairy_item4.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\dairy_item4.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sweettooth_item1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\sweettooth_item1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_drawer_icon.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\default_drawer_icon.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_grid_diary.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\home_grid_diary.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_profile.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\ic_profile.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cps_item4.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\cps_item4.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_grid_beverages.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\home_grid_beverages.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrolling_image2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\scrolling_image2.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_button.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\next_button.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rte_item3.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\rte_item3.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_thumbnail.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\default_thumbnail.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\ic_home.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_my_orders.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\ic_my_orders.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrolling_image1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\scrolling_image1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_favourite_selected.png",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\icon_favourite_selected.png"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_grid_ready_to_cook.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\home_grid_ready_to_cook.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bfkcereals_item1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\bfkcereals_item1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_grid_canned_frozen.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\home_grid_canned_frozen.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beverage_item5.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\beverage_item5.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beverage_item6.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\beverage_item6.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cps_item1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\cps_item1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bfkcereals_item2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\bfkcereals_item2.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_btn_bkg.xml",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\text_btn_bkg.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bfkcereals_item3.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\bfkcereals_item3.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_photo_icon.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\my_photo_icon.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sweettooth_item2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\sweettooth_item2.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrolling_image3.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\scrolling_image3.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cps_item2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\cps_item2.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snkbct_item2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\snkbct_item2.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beverage_item7.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\beverage_item7.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beverage_item4.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\beverage_item4.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bkg_gradient_bottom_to_top.xml",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\bkg_gradient_bottom_to_top.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cps_item3.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\cps_item3.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrolling_image4.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\scrolling_image4.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beverage_item8.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\beverage_item8.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frozen_item1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\frozen_item1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_grid_snacks.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\home_grid_snacks.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous_button.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\previous_button.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beverage_item2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\beverage_item2.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frozen_item2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\frozen_item2.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\ic_drawer.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rte_item1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\rte_item1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snkbct_item1.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\snkbct_item1.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_grid_cereals.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\home_grid_cereals.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snkbct_item4.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\snkbct_item4.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\CleverBelly2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cook_item2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\cook_item2.jpg"
+    },
+    {
+        "merged": "D:\\CleverBelly2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dairy_item2.jpg",
+        "source": "D:\\CleverBelly2\\app\\src\\main\\res\\drawable\\dairy_item2.jpg"
+    }
+]

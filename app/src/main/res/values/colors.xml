@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_color">#3BA8CC</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="list_divider">#FFFFFF</color>
+    <color name="list_background">#FFFFFF</color>
+    <color name="list_background_pressed_dark">#FFFFFF</color>
+    <color name="list_background_pressed_light">#FFFFFF</color>
+    <color name="list_background_dark">#FFFFFF</color>
+    <color name="list_background_light">#FFFFFF</color>
+
+    <color name="drawer_list_item_title">#3BA8CC</color>
+    <color name="circle_page_indicator_bkg">#80000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_text_bkg">#55FFFFFF</color>
+    <color name="gray">#E5E5E5</color>
+    <color name="text_gray">#47494A</color>
+    <color name="black">#000000</color>
+</resources>
